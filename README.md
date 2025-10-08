@@ -57,7 +57,7 @@ WEXA_AI-Assignment
    Check Action page
    Check Package tab under profile.
 
-   <img width="1608" height="458" alt="Screenshot 2025-10-08 142645" src="https://github.com/user-attachments/assets/d7772006-4f57-44fc-94fa-fcd78fed67d2" />
+   <img width="1481" height="391" alt="Screenshot 2025-10-08 142610" src="https://github.com/user-attachments/assets/d04167dd-be15-4f1f-822c-b533a1a27531" />
 
    <img width="1607" height="457" alt="Packages" src="https://github.com/user-attachments/assets/64bce65c-cd17-4b8e-97b4-79829b4aee64" />
 
